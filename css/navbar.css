@@ -57,7 +57,7 @@ nav a::before {
 a:hover::before {
   transform: scaleX(1);
 }
-.nav_button a{
+a .nav_button{
   text-decoration: none;
  color: #fff; 
 }
